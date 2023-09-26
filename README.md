@@ -2,7 +2,7 @@
 [www.dio.me](https://www.dio.me)
 
 ## Autores
-- Eliezer Moraes Silva ([GitHub](https://github.com/eliezermoraesss))
+- [Eliezer Moraes Silva](https://github.com/eliezermoraesss)
 
 # Desafio do Contador
 
